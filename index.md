@@ -8,8 +8,13 @@ layout: home
 <div class="row">
   <div class="column1"> 
 <p>
-I am a postdoc in the <a href = "https://team.inria.fr/mokaplan/"> MOKAPLAN </a> team at 
-<a href ="https://www.inria.fr/centre/paris"> INRIA Paris</a> working with <a href="https://www.ceremade.dauphine.fr/~vialard/"> François-Xavier Vialard </a> and 
+I am currently a junior researcher at <a href ="https://www.inria.fr/centre/paris"> INRIA Lille</a>, where I am a memeber of the project-team <a href="https://team.inria.fr/rapsodi/">RAPSODI</a>. 
+</p>
+
+<p>
+Previously, I was a postdoc in the Laboratoire de Mathématiques d'Orsay (LMO) at Univesité Paris-Sud, where I worked with  <a href="http://quentin.mrgt.fr/">  Quentin Mérigot</a>.
+Before that, I was a postdoc in the <a href = "https://team.inria.fr/mokaplan/"> MOKAPLAN </a> team at 
+<a href ="https://www.inria.fr/centre/paris"> INRIA Paris</a> , where I worked with <a href="https://www.ceremade.dauphine.fr/~vialard/"> François-Xavier Vialard </a>,  <a href="http://gallouet.github.io/">Thomas O. Gallouët </a> and 
 <a href="https://who.rocq.inria.fr/Jean-David.Benamou/"> Jean-David Benamou</a>. 
 </p>
 
@@ -18,14 +23,10 @@ I completed my PhD at <a href="https://www.imperial.ac.uk/"> Imperial College Lo
 </p>
 
 <p>
-My research is on the development and analysis of numerical methods for fluids in a variety of contexts, including: 
-<ul>
-<li>variational models on diffemorphism groups,</li>
-<li> structure-preserving finite element discretizations,</li>
-<li> simulation of geophysical fluid dynamics models, and</li>
-<li> image processing problems arising in experimental fluid dynamics.</li>
-</ul>
+My research is at the intersection of <b>fluid mechanics</b>, <b>optimal transport</b> and <b>numerical analysis</b>. I am particularly interested in the analysis and the numerical approximation of models describing the atmosphere and the oceans. I develop <b>structure-preserving discretizations</b> exploiting the variational structure of such models. I am also interested in the development of numerical methods for <b>data analysis</b> problems in <b>experimental fluid dynamics</b> and <b>oceanography</b>.
 </p>
+
+
   </div>
   <div class="column2"> <img src="photo.jpg" alt="photo"> </div>
 </div> 

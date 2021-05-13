@@ -15,16 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: Andrea Natale
 email: andrea.natale@inria.fr
-description: >- # this means to ignore newlines until "baseurl:"
-  On this website you'll find information on the research that I do. 
-  I am currently based in Paris (France) and I work at INRIA as a postdoc in the MOKAPLAN team.
-  If you need to contact me, please drop me a line by email.
+description: >- # this means to ignore newlines until "baseurl:" On this website you'll find information on the research that I do. 
+  I am a postdoc in the Maths department of Université Paris-Sud. Previously I was a member of the MOKAPLAN team at INRIA Paris. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  andnatale
-googlescholar_username: PxcXsrgAAAAJ&hl
-googlescholar_pseudo:  scholar
+googlescholar_username: PxcXsrgAAAAJ
+googlescholar_pseudo: scholar
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -73,8 +71,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll/scholar
-
-
+  - jekyll-seo-tag
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

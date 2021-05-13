@@ -4,7 +4,6 @@ title: Publications
 ---
 
 
-
 ## Journal Articles and Preprints
 
 {% bibliography %}
