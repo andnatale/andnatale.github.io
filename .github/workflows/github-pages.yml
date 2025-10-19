@@ -1,0 +1,36 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # or the branch you want to deploy from
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repository
+      - uses: actions/checkout@v3
+
+      # 2. Set up Ruby
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 3.2  # ensures recent RubyGems
+
+      # 3. Install Bundler
+      - run: gem install bundler
+
+      # 4. Install all gems from Gemfile
+      - run: bundle install
+
+      # 5. Build the Jekyll site
+      - run: bundle exec jekyll build -d ./_site
+
+      # 6. Deploy to GitHub Pages
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          keep_files: false
+
