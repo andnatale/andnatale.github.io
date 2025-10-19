@@ -1,0 +1,41 @@
+
+*** These modified files were found in JOE when it aborted on Sun Oct 19 15:33:54 2025
+*** JOE was aborted because the terminal closed
+
+*** Fichier '/home/anatale/Work_Webpage/andnatale.github.io/.git/COMMIT_EDITMSG'
+Config mod
+
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Sur la branche main
+# Modifications qui seront validées :
+#	modifié :         _con
+*** Fichier '(Sans nom)'
+KX
+
+*** Fichier '(Sans nom)'
+wq
+
+*** Fichier '(Sans nom)'
+/home/anatale/.gitconfig
+/home/anatale/webpage/andnatale.github.io/.git/COMMIT_EDITMSG
+/home/anatale/firedrake_projects/OT_ALG2/.git/MERGE_MSG
+/home/anatale/webpage/andnatale.github.io/_site/.git/COMMIT_EDITMSG
+/home/anatale/Python_projects/semidiscrete/.git/MERGE_MSG
+/home/anatale/webpage/andnatale.github.io_backup/_site/.git/COMMIT_EDITMSG
+/home/anatale/Python_projects/pysdot_tests/Interacting_cells/.git/COMMIT_EDITMSG
+/home/anatale/Python_projects/pysdot_tests/Interacting_cells/.git/MERGE_MSG
+/home/anatale/Work_Projects/Python_projects/finite volumes/.git/MERGE_MSG
+/home/anatale/Work_Projects/Python_projects/pysdot_projects/Interacting_cells/.git/MERGE_MSG
+/home/anatale/Work_Webpage/andnatale.github.io/.git/COMMIT_EDITMSG
+
+*** Fichier '* Startup Log *'
+Traitement de '/etc/joe/editorrc'...Traitement de '/etc/joe/ftyperc'...Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** Fichier '(Sans nom)'
+ Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml Theme: minima Theme source: /usr/local/bundle/gems/minima-2.5.1 GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: minima Theme source: /usr/local/bundle/gems/minima-2.5.1 Requiring: jekyll-feed Requiring: jekyll-seo-tag Requiring: jekyll-feed Requiring: jekyll-seo-tag Requiring: jekyll-sitemap Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings GitHub Metadata: Initializing... Source: /github/workspace/. Destination: /github/workspace/./_site Incremental build: disabled. Enable with --incremental Generating... EntryFilter: excluded /Gemfile.lock EntryFilter: excluded /Gemfile Reading: _news/announcement_1.md Reading: _news/announcement_2.md Reading: _news/announcement_3.md Reading: _news/announcement_4.md Reading: _news/announcement_5.md Reading: _news/announcement_6.md Reading: _news/announcement_7.md Reading: _news/announcement_8.md Reading: _news/announcement_9.md Generating: JekyllOptionalFrontMatter::Generator finished in 3.4745e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 4.2209e-05 seconds. Jekyll Feed: Generating feed for posts Generating: JekyllFeed::Generator finished in 0.000649848 seconds. Generating: Jekyll::JekyllSitemap finished in 0.002145331 seconds. Generating: Jekyll::Paginate::Pagination finished in 5.53e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.036798746 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.000117049 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 6.8248e-05 seconds. Rendering: _news/announcement_2.md Pre-Render Hooks: _news/announcement_2.md Rendering Markup: _news/announcement_2.md Requiring: kramdown-parser-gfm Rendering Layout: _news/announcement_2.md Layout source: si
+*** Fichier '(Sans nom)'
+ Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml Theme: minima Theme source: /usr/local/bundle/gems/minima-2.5.1 GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: minima Theme source: /usr/local/bundle/gems/minima-2.5.1 Requiring: jekyll-feed Requiring: jekyll-seo-tag Requiring: jekyll-feed Requiring: jekyll-seo-tag Requiring: jekyll-sitemap Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings GitHub Metadata: Initializing... Source: /github/workspace/. Destination: /github/workspace/./_site Incremental build: disabled. Enable with --incremental Generating... EntryFilter: excluded /Gemfile.lock EntryFilter: excluded /Gemfile Reading: _news/announcement_1.md Reading: _news/announcement_2.md Reading: _news/announcement_3.md Reading: _news/announcement_4.md Reading: _news/announcement_5.md Reading: _news/announcement_6.md Reading: _news/announcement_7.md Reading: _news/announcement_8.md Reading: _news/announcement_9.md Generating: JekyllOptionalFrontMatter::Generator finished in 3.4745e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 4.2209e-05 seconds. Jekyll Feed: Generating feed for posts Generating: JekyllFeed::Generator finished in 0.000649848 seconds. Generating: Jekyll::JekyllSitemap finished in 0.002145331 seconds. Generating: Jekyll::Paginate::Pagination finished in 5.53e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.036798746 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.000117049 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 6.8248e-05 seconds. Rendering: _news/announcement_2.md Pre-Render Hooks: _news/announcement_2.md Rendering Markup: _news/announcement_2.md Requiring: kramdown-parser-gfm Rendering Layout: _news/announcement_2.md Layout source: si
