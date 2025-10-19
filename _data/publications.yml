@@ -1,0 +1,143 @@
+- title: "Semi-discrete convex order and Laguerre tessellation fitting"
+  authors: "David P Bourne, Thomas O Gallouët, Quentin Mérigot, Andrea Natale"
+  year: 2025
+  hal_id: "hal-05008630"
+
+- title: "Metric extrapolation in the Wasserstein space"
+  authors: "Thomas O Gallouët, Andrea Natale, Gabriele Todeschi"
+  journal: "Calculus of Variations and Partial Differential Equations"
+  volume: "64"
+  number: "5"
+  pages: "147"
+  year: 2025
+  doi: "10.1007/s00526-025-02996-6"
+  hal_id: "hal-04647125"
+
+- title: "Infinitely many saturated travelling waves for epidemic models with distributed-contacts"
+  authors: "Matthieu Alfaro, Maxime Herda, Andrea Natale"
+  journal: "arXiv preprint arXiv:2502.11589"
+  year: 2025
+  hal_id: "hal-04951055"
+
+- title: "Efficient preconditioners for solving dynamical optimal transport via interior point methods"
+  authors: "Enrico Facca, Gabriele Todeschi, Andrea Natale, Michele Benzi"
+  journal: "SIAM Journal on Scientific Computing"
+  volume: "46"
+  number: "3"
+  pages: "A1397--A1422"
+  year: 2024
+  publisher: "SIAM"
+  hal_id: "hal-03766668v3"
+
+- title: "From geodesic extrapolation to a variational BDF2 scheme for Wasserstein gradient flows"
+  authors: "Thomas Gallouët, Andrea Natale, Gabriele Todeschi"
+  journal: "Mathematics of Computation"
+  year: 2024
+  hal_id: "hal-03790981"
+
+- title: "Discretizing the Fokker-Planck equation with second-order accuracy: a dissipation driven approach"
+  authors: "Clément Cancès, Léonard Monsaingeon, Andrea Natale"
+  journal: "arXiv preprint arXiv:2410.03367"
+  year: 2024
+  hal_id: "hal-04720129"
+
+- title: "Convergence of a Lagrangian discretization for barotropic fluids and porous media flow"
+  authors: "Thomas O Gallouët, Quentin Merigot, Andrea Natale"
+  journal: "SIAM Journal on Mathematical Analysis"
+  volume: "54"
+  number: "3"
+  pages: "2990--3018"
+  year: 2022
+  publisher: "SIAM"
+  hal_id: "hal-03234144v2"
+
+- title: "A mixed finite element discretization of dynamical optimal transport"
+  authors: "Andrea Natale, Gabriele Todeschi"
+  journal: "Journal of Scientific Computing"
+  volume: "91"
+  number: "2"
+  pages: "1--26"
+  year: 2022
+  publisher: "Springer"
+  url: "https://hal.archives-ouvertes.fr/hal-02501634"
+  hal_id: "hal-02501634"
+
+- title: "Computation of optimal transport with finite volumes"
+  authors: "Andrea Natale, Gabriele Todeschi"
+  journal: "ESAIM: M2AN"
+  volume: "55"
+  number: "5"
+  pages: "1847--1871"
+  year: 2021
+  url: "https://hal.archives-ouvertes.fr/hal-03032446"
+  hal_id: "hal-03032446"
+
+- title: "TPFA Finite Volume approximation of Wasserstein gradient flows."
+  authors: "Andrea Natale, Gabriele Todeschi"
+  journal: "Accepted in the conference: Finite Volumes for Complex Applications, arXiv preprint arXiv:2001.07005"
+  year: 2020
+  hal_id: "hal-02444833"
+
+- title: "Embedding Camassa-Holm equations in incompressible Euler"
+  authors: "Andrea Natale, François-Xavier Vialard"
+  journal: "Journal of Geometric Mechanics"
+  volume: "11"
+  number: "2"
+  pages: "205--223"
+  year: 2019
+  hal_id: "hal-01781162"
+
+- title: "Generalized compressible flows and solutions of the H(div) geodesic problem"
+  authors: "Thomas Gallouët, Andrea Natale, François-Xavier Vialard"
+  journal: "Archive for Rational Mechanics and Analysis (to appear), arXiv preprint arXiv:1806.10825"
+  year: 2019
+  hal_id: "hal-01815531v1"
+
+- title: "Scale-selective dissipation in energy-conserving finite-element schemes for two-dimensional turbulence"
+  authors: "Andrea Natale, Colin J Cotter"
+  journal: "Quarterly Journal of the Royal Meteorological Society"
+  volume: "143"
+  number: "705"
+  pages: "1734--1745"
+  year: 2017
+  publisher: "Wiley Online Library"
+
+- title: "A variational H (div) finite-element discretization approach for perfect incompressible fluids"
+  authors: "Andrea Natale, Colin J Cotter"
+  journal: "IMA J. Numer. Anal"
+  year: 2017
+
+- title: "Compatible finite element spaces for geophysical fluid dynamics"
+  authors: "Andrea Natale, Jemma Shipton, Colin J Cotter"
+  journal: "Dynamics and Statistics of the Climate System"
+  volume: "1"
+  number: "1"
+  year: 2016
+  publisher: "Oxford University Press"
+
+- title: "Metric completion of Diff ([0, 1]) with the H^1 right-invariant metric"
+  authors: "Simone Di Marino, Andrea Natale, Rabah Tahraoui, François-Xavier Vialard"
+  journal: "arXiv preprint arXiv:1906.09139"
+  year: 2019
+  hal_id: "hal-02161686"
+
+- title: "On the shallow atmosphere approximation in finite element dynamical cores"
+  authors: "CJ Cotter, DA Ham, ATT McRae, L Mitchell, Andrea Natale"
+  journal: "arXiv preprint arXiv:1410.3069"
+  year: 2014
+
+- title: "Spatial filtering improved tomographic PIV"
+  authors: "Stefano Discetti, Andrea Natale, Tommaso Astarita"
+  journal: "Experiments in fluids"
+  volume: "54"
+  number: "4"
+  pages: "1505"
+  year: 2013
+  publisher: "Springer"
+
+- title: "Gradient flows of interacting Laguerre cells as discrete porous media flows"
+  authors: "Andrea Natale"
+  journal: "ESAIM: M2AN (to appear). arXiv preprint arXiv:2304.05069"
+  year: 2023
+  hal_id: "hal-04061307"
+
