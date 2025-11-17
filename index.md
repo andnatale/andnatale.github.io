@@ -8,15 +8,14 @@ layout: home
 <div class="row">
   <div class="column1"> 
 <p style="text-align:justify">
-I am a Research Scientist (chargé de recherche) in the  <a href="https://team.inria.fr/rapsodi/">RAPSODI</a> project team at  <a href ="https://www.inria.fr/en/inria-centre-university-lille"> Inria Lille</a>. 
+I am a Research Scientist (chargé de recherche) in the  <a href="https://team.inria.fr/parma">ParMA</a> project team at <a href ="https://www.inria.fr/en/centre-inria-de-saclay"> Inria Saclay</a> and the Laboratoire de Mathématiques d'Orsay (LMO, Université Paris-Saclay). 
 </p>
 
 
 
 
 <p style="text-align:justify">
-Prior to Inria Lille, I was a postdoc in the Laboratoire de Mathématiques d'Orsay (LMO) at Université Paris-Sud.
-Before that, I was a postdoc in the <a href = "https://team.inria.fr/mokaplan/"> MOKAPLAN </a> team at 
+Prior to Inria Saclay, I was a member of the <a href = "https://team.inria.fr/rapsodi"> RAPSODI </a> team at <a href ="https://www.inria.fr/en/centre-inria-de-luniversite-de-lille"> Inria Lille </a>. Before that, I was a postdoc at the LMO and in the <a href = "https://team.inria.fr/mokaplan/"> MOKAPLAN </a> team at 
 <a href ="https://www.inria.fr/centre/paris"> Inria Paris</a>.
 I completed my PhD at <a href="https://www.imperial.ac.uk/"> Imperial College London</a> in 2017.
 </p>
