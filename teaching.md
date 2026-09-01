@@ -6,6 +6,14 @@ title: Teaching
 
 
 <p>
+<b>(2025-2027) Université Paris-Saclay</b>
+</p>
+<ul style="text-align:justify">
+<li> <b> Basics of Optimization</b>, M2. Lecture notes:  <a href="{{ site.baseurl }}/assets/BasicsOptimization1.pdf"> Lecture 1 </a>. </li> 
+</ul>
+
+
+<p>
 <b>(2020-2024) Université de Lille</b>
 </p>
 <ul style="text-align:justify">
