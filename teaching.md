@@ -10,7 +10,7 @@ title: Teaching
 </p>
 <ul style="text-align:justify">
 <li> <b> Basics of Optimization</b>, M2. Lecture notes:  <a href="{{ site.baseurl }}/assets/BasicsOptimization1.pdf"> Lecture 1 </a>, <a href="{{ site.baseurl }}/assets/BasicsOptimization2.pdf"> Lecture 2 </a>, <a href="{{ site.baseurl }}/assets/BasicsOptimization3.pdf"> Lecture 3-4 </a>, <a href="{{ site.baseurl }}/assets/BasicsOptimization4.pdf"> Lecture 5 </a>. </li> 
-<ul>
+</ul>
 
 
 <p>
